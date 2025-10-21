@@ -31,7 +31,7 @@ const server = http.createServer((req, res) => {
     </head>
     <body>
       <h1>Hello!! It's Manup Thapa Magar </h1>
-      <p>This is a simple sample page served from a Node.js HTTP server.</p>
+      <p>This is a simple modification of page served from a Node.js HTTP server.</p>
     </body>
     </html>
   `;
